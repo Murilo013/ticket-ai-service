@@ -40,7 +40,7 @@ Cada modelo é treinado de forma independente a partir de um dataset em CSV.
 ---
 
 ## 🧱 Estrutura do Projeto
-
+```
 ticket-ai-service/
 │
 ├── data/
@@ -57,6 +57,7 @@ ticket-ai-service/
 ├── test_all_models.py # Script para testar os modelos
 ├── .gitignore
 └── README.md
+```
 
 
 ⚠️ **Importante:**  
