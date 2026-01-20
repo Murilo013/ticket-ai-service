@@ -1,0 +1,15 @@
+# Ambiente virtual
+venv/
+
+# Modelos treinados
+models/*.pkl
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store

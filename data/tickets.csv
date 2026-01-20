@@ -1,0 +1,13 @@
+text,type,priority,area
+Erro ao cadastrar usuário,Bug,Média,Sistemas
+Desbloquear usuário,Suporte,Alta,Sistemas
+Solicitação de permissão,Suporte,Média,Sistemas
+Falha no sistema,Suporte,Média,Sistemas
+Sistema muito lento,Suporte,Baixa,Sistemas
+Dúvida sobre funcionalidade,Duvida,Baixa,Geral
+Como gerar relatório,Duvida,Baixa,Geral
+Solicitação de nova funcionalidade,Melhoria,Baixa,Geral
+Adicionar filtro na tela inicial,Melhoria,Baixa,Geral
+PC não está ligando,Suporte,Alta,Infra
+Estou sem internet,Suporte,Alta,Infra
+Gostaria de uma funcionalidade,Melhoria,Baixa,Geral
